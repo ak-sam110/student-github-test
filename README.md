@@ -1,5 +1,13 @@
 # student-github-test
-Hello, my name is Samuel. I am a student interested in software development and technology. 
-I enjoy learning programming and improving my technical skills. I also like working on web development and GitHub projects.
+
+Hello, my name is Samuel Oluyemi Akinbola.
+
+&#x20;I am a postgraduate student at Southern Federal University.
+I am studying Modern Software Development.
+
+I enjoy Software development and web technologies
+
+I like solving development and web technologies.
 I hope to become a professional software engineer in the future.
 [Read my bio](documents/bio.txt)
+
