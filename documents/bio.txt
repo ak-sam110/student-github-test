@@ -3,3 +3,4 @@ I am from Nigeria.
 I am currently studying Modern Software Development in Southern Federal University, Rostov on Don, Russia.
 My interests include programming, web development, DevOps, and technology.
 My hobbies are reading, coding, watching tech videos, and learning new software tools.
+I also enjoy watching football and listening to music.
